@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro');
+
+.app-title{
+    background-color: #DDDEE1;
+    padding: 5px;
+    padding-left: 30px;
+}
+
+.app-title > *{
+    font-weight: bold;
+}
+
+.middle-content{
+    margin-bottom: 4%;
+}
+
+.app-footer {
+    background-color: #DDDEE1;
+    padding: 5px;
+    padding-left: 30px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+.font-sans-pro *{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.font-code-pro *{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 13px;
+}
+
+.btn {
+    padding-bottom: 0px!important;
+    padding-top: 0px!important;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
